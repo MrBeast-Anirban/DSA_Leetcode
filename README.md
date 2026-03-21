@@ -18,4 +18,8 @@ Solved Leetcode problems after March 2026
 | ------- |
 | [0015-3sum](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
