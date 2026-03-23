@@ -15,7 +15,7 @@ public:
         while(j < n){
             product *= nums[j];
             //incase if the product of the subarray i to j exceeds or equal to k remove ith element from subarray
-            while(i < n && product >= k){
+            while(i <= j && product >= k){
                 product /= nums[i];
                 i++;
             }
