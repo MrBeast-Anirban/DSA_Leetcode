@@ -10,6 +10,7 @@ Solved Leetcode problems after March 2026
 | [0016-3sum-closest](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -33,4 +34,13 @@ Solved Leetcode problems after March 2026
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
