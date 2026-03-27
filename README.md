@@ -25,6 +25,7 @@ Solved Leetcode problems after March 2026
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0844-backspace-string-compare](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -60,4 +61,16 @@ Solved Leetcode problems after March 2026
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
