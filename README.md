@@ -25,6 +25,7 @@ Solved Leetcode problems after March 2026
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0844-backspace-string-compare](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -41,6 +42,7 @@ Solved Leetcode problems after March 2026
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Solved Leetcode problems after March 2026
 | [0001-two-sum](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Union-Find
 |  |
 | ------- |
