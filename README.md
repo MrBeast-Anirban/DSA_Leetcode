@@ -14,6 +14,7 @@ Solved Leetcode problems after March 2026
 | [0075-sort-colors](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -28,6 +29,7 @@ Solved Leetcode problems after March 2026
 | [0142-linked-list-cycle-ii](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0844-backspace-string-compare](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -48,6 +50,7 @@ Solved Leetcode problems after March 2026
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
@@ -85,4 +88,8 @@ Solved Leetcode problems after March 2026
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0202-happy-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
