@@ -27,6 +27,7 @@ Solved Leetcode problems after March 2026
 | [0141-linked-list-cycle](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0844-backspace-string-compare](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -63,6 +64,7 @@ Solved Leetcode problems after March 2026
 | [0128-longest-consecutive-sequence](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0202-happy-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -79,4 +81,8 @@ Solved Leetcode problems after March 2026
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0844-backspace-string-compare) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
