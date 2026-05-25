@@ -99,6 +99,7 @@ Solved Leetcode problems after March 2026
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
