@@ -14,6 +14,7 @@ Solved Leetcode problems after March 2026
 | [0075-sort-colors](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -81,6 +82,7 @@ Solved Leetcode problems after March 2026
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0200-number-of-islands) |
 ## String
 |  |
 | ------- |
@@ -118,4 +120,16 @@ Solved Leetcode problems after March 2026
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
