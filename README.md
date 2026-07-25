@@ -16,6 +16,7 @@ Solved Leetcode problems after March 2026
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0457-circular-array-loop](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0457-circular-array-loop) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -34,6 +35,7 @@ Solved Leetcode problems after March 2026
 | [0202-happy-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0457-circular-array-loop](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0457-circular-array-loop) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -78,6 +80,7 @@ Solved Leetcode problems after March 2026
 | [0141-linked-list-cycle](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0202-happy-number) |
+| [0457-circular-array-loop](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0457-circular-array-loop) |
 ## Union-Find
 |  |
 | ------- |
