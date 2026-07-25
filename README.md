@@ -50,6 +50,7 @@ Solved Leetcode problems after March 2026
 | [0075-sort-colors](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Solved Leetcode problems after March 2026
 | ------- |
 | [0009-palindrome-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0202-happy-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
