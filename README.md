@@ -19,6 +19,7 @@ Solved Leetcode problems after March 2026
 | [0287-find-the-duplicate-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0457-circular-array-loop) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -49,6 +50,7 @@ Solved Leetcode problems after March 2026
 | [0018-4sum](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0075-sort-colors) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
@@ -111,6 +113,7 @@ Solved Leetcode problems after March 2026
 | ------- |
 | [0009-palindrome-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0202-happy-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
