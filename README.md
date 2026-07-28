@@ -22,6 +22,7 @@ Solved Leetcode problems after March 2026
 | [0628-maximum-product-of-three-numbers](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0713-subarray-product-less-than-k](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -52,6 +53,7 @@ Solved Leetcode problems after March 2026
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Linked List
 |  |
@@ -144,4 +146,8 @@ Solved Leetcode problems after March 2026
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0200-number-of-islands) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
