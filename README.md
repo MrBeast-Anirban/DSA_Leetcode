@@ -58,6 +58,7 @@ Solved Leetcode problems after March 2026
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -113,6 +114,7 @@ Solved Leetcode problems after March 2026
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -124,6 +126,7 @@ Solved Leetcode problems after March 2026
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/MrBeast-Anirban/DSA_Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Greedy
